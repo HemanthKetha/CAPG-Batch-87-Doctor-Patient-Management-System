@@ -5,4 +5,4 @@ A doctor patient handling, managing system that helps doctors in their work and 
 Next time a user logs in he may view his/her entire medical history as and when needed. At the same time a doctor may view patients medical history even before the patient visits him. This allows for an automated patient doctor handling system through an online interface.
 
 
-![final-1](https://user-images.githubusercontent.com/60824597/198195832-e7903c52-6a44-499d-93f3-793ce98a44c8.png)
+![image](https://user-images.githubusercontent.com/60824597/198195996-87b7edfc-0fe3-4c21-9431-330de478cc46.png)
